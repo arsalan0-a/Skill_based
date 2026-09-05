@@ -121,12 +121,12 @@ EDUCATION
 United Institute of Technology - Prayagraj, Uttar Pradesh
 Bachelor of Technology (B.Tech) in Computer Science & Engineering
 Expected Graduation: 2029 | Current Status: 2nd Year, 3rd Semester
-- Relevant Coursework: Data Structures & Algorithms (Active Practice), Computer Networking (Foundations), Object-Oriented Programming (OOP), Discrete Mathematics.
+- Relevant Coursework: Data Structures & Algorithms (Active Practice), Computer Networking (Active Practice), Object-Oriented Programming (OOP), Discrete Mathematics.
 
 TECHNICAL SKILLS
 - Programming Languages: C, C++, Python
-- Web Development: HTML5, CSS3, JavaScript, React (Vite)
-- Core Computer Science: Data Structures & Algorithms (Practicing), Computer Networking (Foundational), OOP
+- Web Development: HTML5, CSS3,  React (Vite)
+- Core Computer Science: Data Structures & Algorithms (Practicing), Computer Networking (Active Practice), OOP
 - Machine Learning & AI: Supervised Learning Fundamentals, Data Preprocessing, Model Evaluation Metrics
 - Developer Tools: Git, GitHub, Visual Studio Code, Linux (Command Line)
 
