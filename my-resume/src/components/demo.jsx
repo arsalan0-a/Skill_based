@@ -1,6 +1,8 @@
+import './head.css'
+
 function Demo() {
     return (
-        <h1>Arsalan Ajaz</h1>
+        <h1 className="abc">Arsalan Ajaz</h1>
     );
 }
 
